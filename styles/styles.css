@@ -107,11 +107,12 @@ body {
   width: 350px;
   border-radius: 20px;
   font-family: "Josefin Sans", sans-serif;
-  color: #633BBC;
+  color: #460017;
   border: none;
 }
-.painel __click:hover {
-  background-color: #633BBC;
+.painel__click:hover {
+  background-color: #b35a78;
+  transition-duration: 0.5s;
 }
 .painel__containerDois {
   margin-left: 6%;
